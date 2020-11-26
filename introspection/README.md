@@ -1,4 +1,4 @@
-a) I aspire to become better computer science, coding and competitive programming. I always love to learn new things and make new friends. I can make flexible 
+a) I aspire to become better in computer science, coding and competitive programming. I always love to learn new things and make new friends. I can make flexible 
    decisions to manage time between college work and practicing coding languages. I developed an ability to able to work for long hours. I also love to work in teams and
    I have good communication skills. I joined amritapuri branch for amFOSS and I would totally love to be a part of this club. 
    
