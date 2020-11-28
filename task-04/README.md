@@ -1,1 +1,1 @@
-
+I just learnt few bare basics of Java for doing this task. All thanks to VS Code, I couldnt have figured all the bugs without debugging in it. I found many bugs, starting with syntax errors, missing semicolon's,  miss placed operators(like + and * swapped) and game over window not showing up and errors increasing on a factor of 23. I had a good time debugging this Java code.
