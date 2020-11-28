@@ -1,1 +1,1 @@
-
+I just copy pasted [star.user.js](https://raw.githubusercontent.com/amfoss/star-me/master/star.user.js) in the browser console with github open, And it automatically starred all the amFOSS repositories in my github account.
