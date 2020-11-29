@@ -11,7 +11,7 @@ Task      |       Description
 [Task-04](https://github.com/sahith-2k3/amfoss-tasks/tree/main/task-04)|Debugging A Java App
 [Task-09](https://github.com/sahith-2k3/amfoss-tasks/tree/main/task-09)|Using JavaScript in Browser console to spam messages in Telegram Web
 [Task-10](https://github.com/sahith-2k3/amfoss-tasks/tree/main/task-10)|CS50
-[Task-11](https://github.com/sahith-2k3/amfoss-tasks/tree/main/task-11)|Poster Design(pending)
+[Task-11](https://github.com/sahith-2k3/amfoss-tasks/tree/main/task-11)|Poster Design
 [Task-12](https://github.com/sahith-2k3/amfoss-tasks/tree/main/task-12)|ICM2003 CodeChef problem
 [Task-14](https://github.com/sahith-2k3/amfoss-tasks/tree/main/task-14)|Bandit (An OverTheWire Web game)
 [Task-15](https://github.com/sahith-2k3/amfoss-tasks/tree/main/task-15)|Project Euler problems from Hackerrank
