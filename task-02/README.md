@@ -1,1 +1,1 @@
-Hackerrank Username: jerkin2k3
+jerkin2k3
