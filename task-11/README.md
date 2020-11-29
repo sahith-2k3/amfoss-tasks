@@ -1,1 +1,1 @@
-
+I made this is 10 mins :). This is the first time I've heard about [canva.com](https://www.canva.com/). It was very easy to use and very user friendly. The real hard thing about this task was finding a picture of myself. In this process I realised that I didnt have any good pictures of myself(alone):(
