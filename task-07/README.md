@@ -1,1 +1,1 @@
-
+I planned this task for the 11th hour, with all the software installed I started learning flutter language and coding in android studio, but as my laptop didnt boot after a laptop spill. I continued tasks which didnt require ubuntu or new software installed in an old deskptop PC. 
