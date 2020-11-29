@@ -1,1 +1,1 @@
-
+This task was fun. I knew few basics of JavaScript but this felt kind of new. I referred to [this site](https://www.w3schools.com/jsref/met_win_setinterval.asp) instead for completing this task. I spammed hi's to my friend and explained him about the task. He called me jobless before he knew this was all automated.
