@@ -1,1 +1,1 @@
-
+I used an online algebra calculator to find the derviate of the function so that I could find a minima in the given range. This took me a lot of time to think and I also used a concept thought in cs50 2019 how going to the half of all the values and removing the one of the halves which doesnt contain the solution is faster than noraml loop cycle. 
