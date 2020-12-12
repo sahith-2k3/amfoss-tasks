@@ -2,10 +2,6 @@ import math
 
 t = int(input())
 
-
-def fn(x, b, c):
-    return (x**2+b*x+c)/math.sin(x)
-
 def fn_der(x,b,c):
     return (2*x+b)*math.sin(x) - (x**2 + b*x + c)*math.cos(x)
 
