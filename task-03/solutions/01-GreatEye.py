@@ -1,11 +1,11 @@
 t = int(input())
 for i in range(t):
-    y = int(input())
-    z = [item for item in str(input()).split()]
-    sum = 0
-    if y <= len(z):
-        for x in z[y]:
-            sum += ord(x)
+    k = int(input())
+    list = [i for i in input().split()]
+    if len(list) > k:
+        sum = 0
+        for i in list[k]:
+            sum += ord(i)
         print(sum)
-    elif y > len(z):
+    else:
         print(-1)
